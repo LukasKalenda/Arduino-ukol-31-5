@@ -8,4 +8,4 @@ Arduino vytvořené návrhy:
 - 1. Kombinace Bluetooth - teploměr - váhy (2x)
 - 2. Kombinace LORAWan - SD karta - teploměr (váhy 2x;4x) - záleží na volném počtu
 
-Čas byl zde rozhodně více než 8 hodin, zde je zárovň fyzická část, kterou je potřeba složit a zprovoznit. Výhoda, že při jednom funkčním kodu se dá zapojení opakovat prakticky do nekonečna.
+Zde je zárovň fyzická část, kterou je potřeba složit a zprovoznit. Výhoda, že při jednom funkčním kodu se dá zapojení opakovat prakticky do nekonečna.
